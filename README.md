@@ -41,12 +41,4 @@ A lightweight and interactive **personal finance dashboard** built using **HTML,
 - Beginners exploring personal finance concepts
 - Anyone who wants a simple and visual expense tracker
 
-## 🔮 Future Enhancements
-- Dark/Light theme toggle
-- Monthly trend comparison
-- Category icons & better alerts
-- Mobile app conversion
-
----
-
 Made with 💙 for learning **Budgeting & Personal Economics**
